@@ -12,19 +12,19 @@
 <h1 align="center">
 <a href="https://www.instagram.com/braianmxoviedo/">
   <img align="center" 
-       alt="Lunox's Instagram" 
+       alt="Braian's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
 <a href="https://www.linkedin.com/in/braian-maximiliano-oviedo-1b54931a9/">
   <img align="center" 
-       alt="Linkdein" 
+       alt="Linkedin" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
-  <a href="https://www.linkedin.com/in/braian-maximiliano-oviedo-1b54931a9/">
+  <a href="https://twitter.com/Braian7221">
   <img align="center" 
        alt="Twitter" 
        width="22px" 
@@ -45,8 +45,7 @@
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![11trendsblog-1](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/5a1e894f-2769-432f-aa27-ef9c513703b6)
+![banner](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/82935580-9c3b-4653-8ac2-0e62c2ce3a9c)
 
 &nbsp;
 
@@ -90,13 +89,9 @@
     <p align="center">
       <div align="center">
     </p>
-    
-<a href="https://github.com/BraianOviedo?tab=repositories">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=BraianOviedo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" 
-       alt='Braian's favorite languages" />
-</a>
-  
+
+<span width="140px"></span>
+
 <a href="https://github.com/BraianOviedo">
   <img align="center"
        src="https://github-readme-streak-stats.herokuapp.com/?user=BraianOviedo&theme=midnight-purple&hide_border=false" />
@@ -104,6 +99,15 @@
 
 <span width="140px"></span>
 
+    
+<a href="https://github.com/BraianOviedo?tab=repositories">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=BraianOviedo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" 
+       alt='Braian's favorite languages" />
+</a>
+
+<span width="140px"></span>
+  
 <a href="https://github.com/BraianOviedo">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianOviedo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
