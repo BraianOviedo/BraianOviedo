@@ -10,7 +10,7 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="">
+<a href="https://www.instagram.com/braianmxoviedo/">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
@@ -22,6 +22,13 @@
        alt="Linkdein" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/braian-maximiliano-oviedo-1b54931a9/">
+  <img align="center" 
+       alt="Twitter" 
+       width="22px" 
+       src="https://i.imgur.com/HBVsbge.png" />
   </a>
   
 <a href="mailto:braianoviedo2141@gmail.com">
@@ -39,20 +46,25 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![11trendsblog-1](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/5a1e894f-2769-432f-aa27-ef9c513703b6)
 
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Habilidades Tecnicas: 💻 </strong></p>
+<p><H3 align="center"><strong> Habilidades Técnicas: 💻 </strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+  <code><img height="40" src="https://i.imgur.com/ee9OJ2z.png"></code>
+  <code><img height="40" src="https://i.imgur.com/ZVikQcx.png"></code> 
+  <code><img height="40" src="https://i.imgur.com/RRVMR9s.png"></code> 
+  <code><img height="40" src="https://i.imgur.com/SN6Zv2y.png"></code>
+  <code><img height="40" src="https://i.imgur.com/rE9YgCW.png"></code>
+  <code><img height="40" src="https://i.imgur.com/JrFWkli.png"></code> 
+  <code><img height="40" src="https://i.imgur.com/Xq9HL7o.png"></code> 
+  <code><img height="40" src="https://i.imgur.com/Jaaifr7.png"></code>
+  <code><img height="40" src="https://i.imgur.com/ce5mthL.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
+  <code><img height="40" src="https://i.imgur.com/6aQBuTa.png"></code>
+  <code><img height="40" src="https://i.imgur.com/OsuLaJc.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
@@ -63,6 +75,9 @@
 
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Idiomas: 🌐</strong></p>
+  <code><img height="40" src="https://i.imgur.com/mykgQma.png"></code>
+  <code><img height="40" src="https://i.imgur.com/yiBwI3l.png"></code>
+  <code><img height="40" src="https://i.imgur.com/E5RKDEM.png"></code>
 
   
   </p>
@@ -81,6 +96,8 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianOviedo&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Braian's favorite languages" />
 </a>
+
+<span width="40px"></span>
   
 <a href="https://github.com/BraianOviedo">
   <img align="center"
