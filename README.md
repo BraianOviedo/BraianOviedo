@@ -84,7 +84,7 @@
 &nbsp;
 
 <!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 📈
+<H2 align="center"><strong>Estadística GitHub: 📈
   </strong>
 </H2>
     <p align="center">
@@ -93,13 +93,18 @@
     
 <a href="https://github.com/BraianOviedo?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianOviedo&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://github-readme-stats.vercel.app/api?username=BraianOviedo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" 
        alt='Braian's favorite languages" />
 </a>
-
-<span width="40px"></span>
   
 <a href="https://github.com/BraianOviedo">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=BraianOviedo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=BraianOviedo&theme=midnight-purple&hide_border=false" />
+</a>
+
+<span width="140px"></span>
+
+<a href="https://github.com/BraianOviedo">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianOviedo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </a>
