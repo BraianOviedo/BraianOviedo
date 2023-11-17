@@ -45,7 +45,7 @@
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-![banner](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/82935580-9c3b-4653-8ac2-0e62c2ce3a9c)
+![banner_purple_color_scheme_with_the_words_Bra-transformed](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/f358b390-8c14-4593-ab81-76412a55e67c)
 
 &nbsp;
 
