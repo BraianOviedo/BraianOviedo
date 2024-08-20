@@ -1,12 +1,19 @@
 <!-- Title -->
-<h1 align="center">Bienvenido a mi perfil de GitHub
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center">👨‍💻 Full Stack Developer | Técnico Superior en Desarrollo Web y Aplicaciones Digitales
+  <!--<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
-  </h2></h1>
+  </h2>-->
+</h1>
 
 
 <!-- Quote -->
-<p align="center">¡Hola! Soy Braian Maximiliano Oviedo, un apasionado desarrollador de 25 años que reside en Argentina. Mi enfoque principal se centra en el desarrollo web y de aplicaciones móviles.
+<p align="center">
+  
+
+Me gradué del Instituto Superior Politécnico de Córdoba (ISPC) con una sólida formación en desarrollo web y aplicaciones digitales. Mi pasión por la tecnología y el desarrollo de software me ha llevado a explorar y trabajar con diversas tecnologías, siempre buscando aprender y mejorar mis habilidades.
+
+En mi tiempo libre, disfruto trabajando en proyectos personales, experimentando con nuevas tecnologías y particularmente me interesa el desarrollo Mobile y por eso estoy realizando diversas Apps con el Stack de Kotlin y Jetpack Compose.
+</p>
   
   <!-- Social Network -->
 <h1 align="center">
@@ -44,8 +51,8 @@
 
 <!-- Background -->
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-![banner_purple_color_scheme_with_the_words_Bra-transformed](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/f358b390-8c14-4593-ab81-76412a55e67c)
+<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it 
+![banner_purple_color_scheme_with_the_words_Bra-transformed](https://github.com/BraianOviedo/BraianOviedo/assets/59296070/f358b390-8c14-4593-ab81-76412a55e67c)-->
 
 &nbsp;
 
